@@ -67,14 +67,14 @@ Stellar Smart Contract development.
 - 🌍 **Devcontainers:** OSS technology that lets you spin up highly customized environments
   effortlessly on GitHub Codespaces and other popular platforms
 - 💻 **Code Anywhere, Instantly:** Connect seamlessly using your local VS Code IDE or directly access your
-  environment from a browser
+  environment from a browser.
 - 🎨 **Customized & Lovingly Crafted:** Jump into a fully blinged out setup, complete with a customized
-  terminal and IDE, tuned for productivity and prettiness
+  terminal and IDE, tuned for productivity and prettiness.
 - 🖥️ **Built-in Browser:** Light desktop integration grants access to Firefox in your execution environment
-  which facilitates workflows and web integrations directly from your devcontainer
+  which facilitates workflows and web integrations directly from your devcontainer.
 - 🧩 **Passkeys:** Seamlessly leverage stellar wallet browser plugins like such as xBull, or create Passkey
-  wallets using the open-source Bitwarden password manager
-- 🔑 **Secure:** Secure OAuth2 integrations with Github and Discord and VPN and SSH for privacy and security
+  wallets using the open-source Bitwarden password manager.
+- 🔑 **Secure:** Secure OAuth2 integrations with GitHub and Discord and VPN and SSH for privacy and security
 
 ## 🚦 What's Coming with the Stellaria Expansion? 🚦
 
@@ -83,7 +83,7 @@ your actual workflow, building expertise with actual dev tools while you learn t
 
 #### Highlights include:
 
-- 📘 **Interactive IDE-Based Learning:** Test your knowledge directly with quizes built into the IDE through VS Code
+- 📘 **Interactive IDE-Based Learning:** Test your knowledge directly with quizzes built into the IDE through VS Code.
   tasks
 - ✅ **Guided Learning:** Clearly structured, modified TODO task trees, lead you step by step through each contract.
 - 🛠️ **Automated Feedback:** GitHub Actions verify your knowledge with automatically evaluated quizzes and coding tasks,
