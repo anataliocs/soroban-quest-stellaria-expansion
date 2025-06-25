@@ -29,7 +29,7 @@
 **Find build log:**
 
 - Open your VS Code Command Palette with `CMD+SHIFT+P`
-- Search for the option "Devcontainers:  Show Container Log"
+- Search for the option "Codespaces:  View Creation Log"
 	- Alternatively, the VSCode Command is called `@command:remote-containers.revealLogTerminal`
 	- You can also use the env var `$BUILD_LOG_FILE` to
 	  find the devcontainer build log at(Substitute your workspace):
@@ -44,7 +44,7 @@
 **Try Basic Remediations:**
 
 - If there's an error:
-	- `CMD+SHIFT+P` -> Command Palette(CP) -> Search for "Devcontainers: Rebuild Container"
+	- `CMD+SHIFT+P` -> Command Palette(CP) -> Search for "Codespaces: Rebuild Container"
 	- Or the Command:  `@command:remote-containers.rebuildContainer`
 	- Check your branch and your repo
 	- If the error persists, reach out on Discord or open a GitHub Issue
@@ -76,7 +76,7 @@ Example happy logs:
 ```
 
 - After you get your Codespace name, let's verify and register it
-- `CMD+SHIFT+P` -> Command Palette(CP) -> Search for "Tasks: Run Tasks"
+- `CMD+SHIFT+P` -> Command Palette(CP) -> Search for "Tasks: Run Task"
 	- It will also be a command named: `@command:workbench.action.tasks.runTask`
 	- Find the task named "QC - Quality-Gate-1:  Did the Devcontainer Startup correctly?"
 		- Execute the task and enter your Codespace name when prompted then submit
@@ -156,7 +156,7 @@ echo "source <(stellar completion --shell zsh)" >> ~/.zshrc
 ```
 
 - After you get your
-- `CMD+SHIFT+P` -> Command Palette(CP) -> Search for "Tasks: Run Tasks"
+- `CMD+SHIFT+P` -> Command Palette(CP) -> Search for "Tasks: Run Task"
 	- It will also be a command named: `@command:workbench.action.tasks.runTask`
 	- Find the task named "QC - Quality-Gate-2:  ?"
 		- Execute the task
@@ -196,7 +196,7 @@ echo "source <(stellar completion --shell zsh)" >> ~/.zshrc
 <img class="svg" src="../../assets/stellarbox.svg" alt="New Stellar Unlock!">
 </a><br/>
 
-Github actions can drop off treasures in your Github Pages deployment. Click this link to check out the Treasure
+GitHub actions can drop off treasures in your GitHub Pages deployment. Click this link to check out the Treasure
 Chest.
 
 ----
