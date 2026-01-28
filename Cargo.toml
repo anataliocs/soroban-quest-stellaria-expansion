@@ -19,4 +19,4 @@ codegen-units = 1
 lto = true
 
 [workspace.dependencies.soroban-sdk]
-version = "22.0.7"
+version = "22.0.9"
